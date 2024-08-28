@@ -270,6 +270,9 @@ We were experimenting with a lot of different game modes, because of the time li
 
 Took a part in the level design process, how to place everything that exists on the arenas.  
 
+<img src="https://github.com/Pirat1001/Portfolio/blob/main/Images/lavaArena.png" width="500"/> <img src="https://github.com/Pirat1001/Portfolio/blob/main/Images/zombieArena.png" width="500"/>
+
+
 ### Also Worked With
 Debugging and testing the game.
 
