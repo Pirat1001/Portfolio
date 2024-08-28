@@ -17,4 +17,6 @@ friends use various weapons to knock each other off the level and be the last Mo
 Developed: _2024 February - 2024 April_  
 Theme: _3D, WaveDefense, Medieval_  
 Description: _Defend The Castle is a solo game where you're playing as an archer,  
-your main goal is to shoot swarming enemies to defend the castle, the game gets harder with each round!_
+your main goal is to shoot swarming enemies to defend the castle, the game gets harder with each round!_  
+
+![image](https://github.com/Pirat1001/Portfolio/blob/main/Images/GameLogo.png)
