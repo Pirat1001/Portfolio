@@ -49,4 +49,10 @@ Defining what an enemy in enemy pool is and building the pool by reading the dat
 
 All waves have a different amount of enemies that are supposed to spawn, you have UI showing you how much enemies are left/how many you've killed. After all the enemies in the specific wave have died, there's a short break/countdown until the next one starts.  
 
-Game mode also needs to get all the spawners using a loop, there are more than one spawners in the world, so the enemies can spawn at different locations. When spawning an enemy it picks a random spawner from spawners list, more spawners get unlocked with progressing through the game.
+Game mode also needs to get all the spawners using a loop, there are more than one spawners in the world, so the enemies can spawn at different locations. When spawning an enemy it picks a random spawner from spawners list, more spawners get unlocked with progressing through the game.  
+
+<details>
+  <summary>Dropdown to see a few BP nodes from UE5 project</summary>
+
+  <img src="https://github.com/Pirat1001/Portfolio/blob/main/Images/BP_gameMode1.png" width="320"/> <img src="https://github.com/Pirat1001/Portfolio/blob/main/Images/BP_gameMode2.png" width="320"/> <img src="https://github.com/Pirat1001/Portfolio/blob/main/Images/BP_gameMode3.png" width="320"/>  
+</details>
