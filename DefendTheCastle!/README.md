@@ -52,7 +52,7 @@ All waves have a different amount of enemies that are supposed to spawn, you hav
 Game mode also needs to get all the spawners using a loop, there are more than one spawners in the world, so the enemies can spawn at different locations. When spawning an enemy it picks a random spawner from spawners list, more spawners get unlocked with progressing through the game.  
 
 <details>
-  <summary>Dropdown to see a few BP nodes from UE5 project</summary>
+  <summary>Example Game Mode BP ss</summary>
 
   <img src="https://github.com/Pirat1001/Portfolio/blob/main/Images/BP_gameMode1.png" width="320"/> <img src="https://github.com/Pirat1001/Portfolio/blob/main/Images/BP_gameMode2.png" width="320"/> <img src="https://github.com/Pirat1001/Portfolio/blob/main/Images/BP_gameMode3.png" width="320"/>  
 </details>
