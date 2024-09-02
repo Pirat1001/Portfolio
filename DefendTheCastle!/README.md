@@ -38,6 +38,12 @@ Creating a healthBar UI and functionality for the character.
 
 Player is spawning arrow blueprints when firing an arrow. I've created the trajectory the arrow is taking, adjusted the physics for the arrow to look realistic and how the arrow should affect other actors, ex. actor explodes and destroys itself when hitting a castle wall, deals damage to an enemy, etc.  
 
+<details>
+  <summary>Example Character BP ss</summary>
+
+  <img src="https://github.com/Pirat1001/Portfolio/blob/main/Images/BP_character1.png" width="320"/> <img src="https://github.com/Pirat1001/Portfolio/blob/main/Images/BP_character2.png" width="320"/> <img src="https://github.com/Pirat1001/Portfolio/blob/main/Images/BP_character3.png" width="320"/> 
+</details>
+
 ### Game Mode
 _Creating the Game Mode wasn't only programming it but a lot of design thinking as well_  
 
