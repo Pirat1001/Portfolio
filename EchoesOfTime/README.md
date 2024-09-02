@@ -377,4 +377,4 @@ Bug fixing the game
 
 Game Design  
 
-
+<img src="https://github.com/Pirat1001/Portfolio/blob/main/Images/eot1.png" width="320"/> <img src="https://github.com/Pirat1001/Portfolio/blob/main/Images/eot2.png" width="320" height="160"/> <img src="https://github.com/Pirat1001/Portfolio/blob/main/Images/eot3.png" width="320"/> 
